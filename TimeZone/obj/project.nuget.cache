@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "z2W75Wks9yATpF2mmEGxEFo1oyjQS3fy17XCBWqvgnXgIcN+15fdFQybE3d5DoyRDvZKYNeUri01OWWocNVXlA==",
+  "success": true,
+  "projectFilePath": "/Users/aliakpoyraz/Projects/TimeZone/TimeZone/TimeZone.csproj",
+  "expectedPackageFiles": [
+    "/Users/aliakpoyraz/.nuget/packages/microsoft.aspnetcore.openapi/7.0.4/microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
+    "/Users/aliakpoyraz/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/aliakpoyraz/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/aliakpoyraz/.nuget/packages/nodatime/3.2.0/nodatime.3.2.0.nupkg.sha512",
+    "/Users/aliakpoyraz/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/aliakpoyraz/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/aliakpoyraz/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/aliakpoyraz/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
